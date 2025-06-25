@@ -5,7 +5,7 @@ My name is Antony, and I develop statistical and deep learning methods and packa
 You can also find me at:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonysikorski/)
-[![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=GithubPages&logoColor=white)](https://antonyxsik.github.io/)
+[![Personal Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=GithubPages&logoColor=white)](https://antonyxsik.github.io/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.com/citations?user=ndFK6AsAAAAJ&hl=en)
 
 
